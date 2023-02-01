@@ -8,7 +8,7 @@ Instructions:
 5. Add obstacles such as locked doors that can only be opened with a key.
 
 Submission Instructions:
-1. Fork this repository: https://github.com/[user_name]/unity-2d-puzzle-game
+1. Fork this repository: https://github.com/oritsciences/unity-assignment-2
 2. Clone the forked repository to your local machine.
 3. Commit and push the Unity project to the repository.
 4. Submit a pull request to the original repository with a brief description of your solution.
